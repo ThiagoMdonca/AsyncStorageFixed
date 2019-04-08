@@ -1,5 +1,5 @@
 # AsyncStorageFixed
-ReactNative AsyncStorage implementation for ReactJS fixed for atual version
+ReactNative AsyncStorage implementation for ReactJS fixed for recent version
 
 
 ## Install
