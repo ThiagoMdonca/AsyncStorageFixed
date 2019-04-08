@@ -24,10 +24,9 @@ Ps: The content published by the original author was not updated to the latest v
 
  ```
 ### Original Author:
-```
 Orignal Author:Kirill Kovalev seokirillstarsnab@gmail.com
 
 Original link: https://github.com/seokirill/AsyncStorage
 
 Original npm:https://www.npmjs.com/package/AsyncStorage
-```
+
