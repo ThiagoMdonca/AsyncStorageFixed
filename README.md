@@ -20,7 +20,7 @@ https://facebook.github.io/react-native/docs/asyncstorage.html
 
 ## Notes:
 ```
-Ps: The content published by the original author was not updated to the latest version. But Resolvi updates it
+Ps: The content published by the original author was not updated to the latest version. But ended up updates it
 
  ```
 ### Original Author:
