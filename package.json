@@ -9,7 +9,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:seokirill/AsyncStorage.git"
+    "url": "git@github.com:ThiagoMdonca/AsyncStorageFixed.git"
   },
   "keywords": [
     "React",
@@ -21,9 +21,9 @@
   "engines": {
     "node": ">=6.0.0"
   },
-  "homepage": "https://github.com/seokirill/AsyncStorage",
+  "homepage": "https://github.com/ThiagoMdonca/AsyncStorageFixed",
   "bugs": {
-    "url": "https://github.com/seokirill/AsyncStorages/issues"
+    "url": "https://github.com/ThiagoMdonca/AsyncStorageFiexed/issues"
   },
   "license": {
     "type": "MIT"
