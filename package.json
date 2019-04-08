@@ -1,0 +1,35 @@
+{
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "name": "AsyncStorage",
+  "description": "ReactNative AsyncStorage implementation for ReactJS fixed for atual version",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:seokirill/AsyncStorage.git"
+  },
+  "keywords": [
+    "React",
+    "AsyncStorage",
+    "storage"
+  ],
+  "author": "Kirill Kovalev <seokirillstarsnab@gmail.com>",
+  "version": "0.1.5",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "homepage": "https://github.com/seokirill/AsyncStorage",
+  "bugs": {
+    "url": "https://github.com/seokirill/AsyncStorages/issues"
+  },
+  "license": {
+    "type": "MIT"
+  },
+  "private": false,
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {}
+}
