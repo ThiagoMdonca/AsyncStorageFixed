@@ -4,8 +4,8 @@ ReactNative AsyncStorage implementation for ReactJS fixed for recent version
 
 ## Install
 ```
-npm i --save Asyncstoragefixed
-yarn add asyncstorage
+npm i --save asyncstoragefixed
+yarn add asyncstoragefixed
 ```
 
 ## Usage
