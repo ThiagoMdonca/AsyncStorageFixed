@@ -4,7 +4,7 @@
       "es2015"
     ]
   },
-  "name": "asyncStoragefixed",
+  "name": "asyncstoragefixed",
   "description": "ReactNative AsyncStorage implementation for ReactJS fixed for atual version",
   "main": "index.js",
   "repository": {
