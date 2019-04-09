@@ -4,7 +4,7 @@
       "es2015"
     ]
   },
-  "name": "AsyncStorage",
+  "name": "asyncStoragefixed",
   "description": "ReactNative AsyncStorage implementation for ReactJS fixed for atual version",
   "main": "index.js",
   "repository": {
@@ -13,10 +13,10 @@
   },
   "keywords": [
     "React",
-    "AsyncStorage",
+    "AsyncStorageFixed",
     "storage"
   ],
-  "author": "Kirill Kovalev <seokirillstarsnab@gmail.com>",
+  "author": "THiagoMdonca <thiagolimamdonca@gmail.com>",
   "version": "0.1.5",
   "engines": {
     "node": ">=6.0.0"
