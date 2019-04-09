@@ -23,6 +23,10 @@ https://facebook.github.io/react-native/docs/asyncstorage.html
 Ps: The content published by the original author was not updated to the latest version. But ended up updates it
 
  ```
+ 
+ ## License:
+ MIT 
+ 
 ### Original Author:
 Orignal Author:Kirill Kovalev seokirillstarsnab@gmail.com
 
